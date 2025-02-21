@@ -31,8 +31,8 @@ ENV/
 *.swp
 *.swo
 
-# Streamlit
-.streamlit/
+# # Streamlit
+# .streamlit/
 
 # Misc
 .DS_Store
