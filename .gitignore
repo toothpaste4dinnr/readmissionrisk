@@ -37,5 +37,4 @@ ENV/
 # Misc
 .DS_Store
 
-data/*.csv
 models/*.pkl
